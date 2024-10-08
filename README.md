@@ -16,12 +16,12 @@ Skills: Python, C, Arduino.
 
 
 
-https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg
 
-## Skills and Experience
-* ⚛ React
-* 📱 React Native
-* 💻 HTML, CSS, JS
+🌀
+## Soft Skills
+*  Problem-Solving
+* 💻 Creativity
+*  ⚛  Teamwork
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -35,6 +35,6 @@ https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-line.svg" title="scikitlearn" alt="scikitlearn" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="selenium" alt="selenium" width="40" height="40"/>&nbsp;
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-line-wordmark.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
   
 </div>
