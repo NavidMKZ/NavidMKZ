@@ -1,21 +1,21 @@
 ### 😁About Me:
-Hey! My name is Navid. I am a dedicated physics student fascinated by the world of technology and how everything inside it works. My curiosity drives me to explore and learn more about the universe continually. My research interests span across various cutting-edge technologies and fields, including:
+Hey! My name is Navid. I am a dedicated physics student fascinated by the world of technology and how everything inside it works. My curiosity drives me to explore and learn more about the universe continually.
 
 ## 🔎Research Interests
-- **Robotics**: Exploring automation and intelligent machines.
 - **Artificial Intelligence**: Developing smart algorithms and systems.
+- **Robotics**: Exploring automation and intelligent machines.
 - **Deep Learning**: Diving into neural networks and their applications.
 - **Quantum Machine Learning**: Combining quantum computing with machine learning techniques.
 - **Hybrid Quantum Machine Learning**: Merging classical and quantum methodologies for advanced problem-solving.
-- **Neuromorphic Computing**: Mimicking the human brain for innovative computing architectures.
 - **Quantum Computing**: Harnessing the power of quantum mechanics for computation.
+- **Neuromorphic Computing**: Mimicking the human brain for innovative computing architectures.
 
 
 Skills: Python, C, Arduino.
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/navidmarkazi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](navidcentral@gmail.com)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/navidmarkazi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](navidcentral@gmail.com)  
 
 
 
