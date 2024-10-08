@@ -6,9 +6,7 @@ Hey! My name is Navid. I am a dedicated physics student fascinated by the world 
 - **Robotics**: Exploring automation and intelligent machines.
 - **Deep Learning**: Diving into neural networks and their applications.
 - **Quantum Machine Learning**: Combining quantum computing with machine learning algorithms.
-- **Hybrid Quantum Machine Learning**: Merging classical and quantum neural networks for advanced problem-solving.
 - **Quantum Computing**: Harnessing the power of quantum mechanics for computation.
-- **Neuromorphic Computing**: Mimicking the human brain for innovative computing architectures.
 
 
 Skills: Python, C, Arduino.
