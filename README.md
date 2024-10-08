@@ -1,5 +1,5 @@
 ### 😁About Me:
-Hey! My name is Navid. I am a dedicated physics student fascinated by the world of technology and how everything inside it works. My curiosity drives me to explore and learn more about the universe continually.
+Hey! My name is Navid. I am a physics student fascinated by the world of technology and how everything inside it works. My curiosity drives me to explore and learn more about the technology continually.
 
 ## 🔎Research Interests
 - **Artificial Intelligence**: Developing smart algorithms and systems.
@@ -9,17 +9,10 @@ Hey! My name is Navid. I am a dedicated physics student fascinated by the world 
 - **Quantum Computing**: Harnessing the power of quantum mechanics for computation.
 
 
-Skills: Python, C, Arduino.
-
-
-
-
-
-🌀
 ## Soft Skills
-*  Problem-Solving
-* 💻 Creativity
-*  ⚛  Teamwork
+* 🪢 Problem-Solving
+* ✨ Creativity
+* 🧑‍💼  Communication
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
