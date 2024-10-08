@@ -5,17 +5,14 @@ Hey! My name is Navid. I am a dedicated physics student fascinated by the world 
 - **Artificial Intelligence**: Developing smart algorithms and systems.
 - **Robotics**: Exploring automation and intelligent machines.
 - **Deep Learning**: Diving into neural networks and their applications.
-- **Quantum Machine Learning**: Combining quantum computing with machine learning techniques.
-- **Hybrid Quantum Machine Learning**: Merging classical and quantum methodologies for advanced problem-solving.
+- **Quantum Machine Learning**: Combining quantum computing with machine learning algorithms.
+- **Hybrid Quantum Machine Learning**: Merging classical and quantum neural networks for advanced problem-solving.
 - **Quantum Computing**: Harnessing the power of quantum mechanics for computation.
 - **Neuromorphic Computing**: Mimicking the human brain for innovative computing architectures.
 
 
 Skills: Python, C, Arduino.
 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/navidmarkazi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](navidcentral@gmail.com)  
 
 
 
@@ -35,7 +32,7 @@ Skills: Python, C, Arduino.
  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="latex" alt="latex" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow" width="40" height="40"/>&nbsp; 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="pytorch" alt="pytorch" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
 
