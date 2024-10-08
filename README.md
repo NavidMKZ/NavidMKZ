@@ -16,7 +16,7 @@ Skills: Python, C, Arduino.
 
 
 
-
+https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg
 
 ## Skills and Experience
 * ⚛ React
@@ -34,7 +34,7 @@ Skills: Python, C, Arduino.
  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="pytorch" alt="pytorch" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-line.svg" title="scikitlearn" alt="scikitlearn" width="40" height="40"/>&nbsp;
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="selenium" alt="selenium" width="40" height="40"/>&nbsp;
 
   
 </div>
