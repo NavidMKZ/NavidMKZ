@@ -1,7 +1,7 @@
 ### 😁About Me:
-Hey! My name is Navid. I am a dedicated physics student passionate about understanding the universe's fundamental workings. My research interests span across various cutting-edge technologies and fields, including:
+Hey! My name is Navid. I am a dedicated physics student fascinated by the world of technology and how everything inside it works. My curiosity drives me to explore and learn more about the universe continually. My research interests span across various cutting-edge technologies and fields, including:
 
-## Research Interests
+## 🔎Research Interests
 - **Robotics**: Exploring automation and intelligent machines.
 - **Artificial Intelligence**: Developing smart algorithms and systems.
 - **Deep Learning**: Diving into neural networks and their applications.
@@ -10,8 +10,6 @@ Hey! My name is Navid. I am a dedicated physics student passionate about underst
 - **Neuromorphic Computing**: Mimicking the human brain for innovative computing architectures.
 - **Quantum Computing**: Harnessing the power of quantum mechanics for computation.
 
-## About Me
-I am deeply fascinated by how the world and everything inside it works. My curiosity drives me to continually explore and learn more about the universe. When I’m not immersed in my studies, I enjoy [Your Hobbies/Interests], which allows me to unwind and stay 
 
 Skills: Python, C, Arduino.
 
