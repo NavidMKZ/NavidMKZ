@@ -1,13 +1,6 @@
 ### 😁About Me:
 Hey! My name is Navid. I am a physics student fascinated by the world of technology and how everything inside it works. My curiosity drives me to explore and learn more about the technology continually.
 
-## 🔎Research Interests
-- **Artificial Intelligence**: Developing smart algorithms and systems.
-- **Robotics**: Exploring automation and intelligent machines.
-- **Deep Learning**: Diving into neural networks and their applications.
-- **Quantum Machine Learning**: Combining quantum computing with machine learning algorithms.
-- **Quantum Computing**: Harnessing the power of quantum mechanics for computation.
-
 
 ## Soft Skills
 * 🪢 Problem-Solving
